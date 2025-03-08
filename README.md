@@ -1,0 +1,1 @@
+This project processes and analyzes data from the Kepler telescope to identify potentially habitable planets. Using NASA's criteria for habitability, the code filters out planets that could support life. The project demonstrates data parsing, filtering, and the application of scientific metrics for astronomical analysis.
